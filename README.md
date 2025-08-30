@@ -1,3 +1,3 @@
 # EMS-PROJECT
 For learning purpose <br>
-Author - Iisha Samanta
+Author - Itisha Samanta
